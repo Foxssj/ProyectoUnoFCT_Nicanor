@@ -16,7 +16,7 @@ public class PlayerDistance implements IPlayer{
 			System.out.println("Apagando a distancia..");
 			isOn = false;
 		} else {
-			System.out.println("La consola ya está apagada!");
+			System.out.println("No se ha podido apagar a distancia!");
 		}		
 	}
 

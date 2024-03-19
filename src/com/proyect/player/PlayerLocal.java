@@ -15,7 +15,7 @@ public class PlayerLocal implements IPlayer {
 			System.out.println("Apagando..");
 			isOn = false;
 		} else {
-			System.out.println();
+			System.out.println("La consola ya está apagada");
 		}
 		
 	}
